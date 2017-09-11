@@ -1,3 +1,7 @@
+// 
+// Author: kulwadee.som@sit.kmutt.ac.th
+//
+
 package dsa.sorting;
 
 public class Stopwatch {
@@ -11,7 +15,6 @@ public class Stopwatch {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Stopwatch w1 = new Stopwatch();
 		for (int i = 0; i < 100000000; i++)
 			;

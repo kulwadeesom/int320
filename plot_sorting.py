@@ -1,3 +1,12 @@
+##
+# Plot T(n) against input size in log-log scale
+# 
+# Usage: python plot_sorting.py <RUNNING-TIME-RESULTS-FILE>
+#
+# Author: kulwadee.som@sit.kmutt.ac.th
+#
+##
+
 import matplotlib.pyplot as plt
 import sys
 

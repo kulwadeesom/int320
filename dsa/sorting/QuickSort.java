@@ -1,3 +1,7 @@
+// 
+// Author: kulwadee.som@sit.kmutt.ac.th
+//
+
 package dsa.sorting;
 
 import java.util.Arrays;
